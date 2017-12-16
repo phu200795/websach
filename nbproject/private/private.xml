@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/src/java/controller/HomepageController.java</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/web/redirect.jsp</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/src/java/dao/SanPhamDao.java</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/src/java/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/src/java/model/SanPham.java</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/web/WEB-INF/jsp/suasp.jsp</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/web/WEB-INF/jsp/themsp.jsp</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/src/java/service/SanPhamService.java</file>
+            <file>file:/C:/Users/phukg/Documents/NetBeansProjects/SpringMVCFramework/web/WEB-INF/applicationContext.xml</file>
+        </group>
+    </open-files>
+</project-private>
